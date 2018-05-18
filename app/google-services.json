@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "425881651137",
+    "firebase_url": "https://signinauth-56361.firebaseio.com",
+    "project_id": "signinauth-56361",
+    "storage_bucket": "signinauth-56361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425881651137:android:97009aa68a311e30",
+        "android_client_info": {
+          "package_name": "com.example.pankajthawani.callme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425881651137-4chto2bf9kqk0og9h4bbi8p473j3j9au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pankajthawani.callme",
+            "certificate_hash": "6d0e55b6a51173af97c3a9f7fddcddca49e395b5"
+          }
+        },
+        {
+          "client_id": "425881651137-i193jdkf5ab89ocb820ifpbs35bt9mfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAabWZnleDU3rscgI_VGr3fMSv6hxS6Mw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425881651137-i193jdkf5ab89ocb820ifpbs35bt9mfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
